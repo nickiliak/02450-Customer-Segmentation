@@ -3,10 +3,6 @@ Course project • Technical University of Denmark (DTU)
 
 **Goal:** predict customers’ **Spending Score** and flag **high-value shopper segments** using classical and neural models, with rigorous cross-validation and statistical testing.
 
-<p align="center">
-  <img src="docs/teaser.png" alt="Sample scatter plot of PCA projection with clusters and spending scores">
-</p>
-
 ---
 
 ## 1&nbsp;·&nbsp;Project Overview
